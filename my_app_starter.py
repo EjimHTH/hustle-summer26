@@ -77,7 +77,6 @@ item2.deliver()
 # TICKET 6: My cart
 #   A class that holds items in a list and can check out.
 #   Write your Cart class below.
-# TICKET 6: Your cart
 class Cart:
     def __init__(self):
         self.items = []

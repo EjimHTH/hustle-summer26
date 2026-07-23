@@ -1,7 +1,7 @@
 # ============================================================
 # LAB 5 - WEEK 5 : The VibeCheck Bug Hunt
 # ============================================================
-# Name: __________________
+# Name: ____Edgar______________
 #
 # This file is BROKEN on purpose. There are 8 bugs.
 # Each one is marked with a # BUG comment and a number.
